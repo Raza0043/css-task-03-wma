@@ -1,0 +1,65 @@
+body {
+    background-color: wheat;
+
+}
+
+.navbar {
+
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-size: 20px;
+    word-spacing: 50px;
+    padding: 5px;
+    text-align: right;
+    opacity: 50px;
+    
+
+
+    background-color:orange;
+
+
+
+}
+
+.image {
+
+    text-align: initial;
+    margin-bottom: 50px;
+    opacity: 100%;
+
+
+    
+    
+
+
+}
+
+
+
+
+
+.Header {
+
+    margin-left: 150px;
+    margin-right: 200px;
+
+    text-align: center;
+
+
+    background-color: orange;
+
+
+
+
+}
+.para{
+
+font-size: 35px;
+padding: 1px;
+margin: 3px;
+
+text-align: left;
+
+
+}
